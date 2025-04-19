@@ -3,12 +3,13 @@
 This project showcases how I led the integration of AI and analytics tools across a network of schools to improve instructional coaching, teacher retention, and student engagement.
 
 ## Tools Used
-- Power BI
-- SQL
-- Python
-- Google Sheets + App Script
-- ChatGPT/ Microsoft Co-Pilot/ Google Gemini
-- MagicSchool.ai/NotebookLM/Vids
+| Tool                | Purpose                          |
+|---------------------|----------------------------------|
+| Power BI            | Data visualization              |
+| SQL                 | Data querying                   |
+| Python              | Data processing and automation  |
+| LLM (e.g., ChatGPT, Google Gemini) | Automating text-based tasks and creating visuals to support instruction|
+| Gen AI Tools (e.g MagicSchool.ai, NotebookLM) | Support educator lesson creation aligned to grade level standards and enhancing instructional feedback |
 
 ## Project Highlights
 - Created dynamic coaching dashboards to visualize tool adoption across multiple campuses
